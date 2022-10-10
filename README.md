@@ -4,8 +4,13 @@ This repository contains the Recruitment Database Case Study Analysis Notebook a
 ### *By Ted Askoye Samuel* 
 
 ## Description
-An effective recruitment and selection policy not only fulfils the requirements of a job, but also ensures that an organization will continue to maintain its commitment to providing equal opportunity to employees. Adherence to such a policy will let you hire the best possible candidates for your organization. As the People Analyst, we have been tasked by our clients (Yoco), to figure out how we can focus insights on the following roles to help the Yoco People Team. 
-This will help identify problems and analyse the data quantitatively, with the process and find potential areas of improvement in the year 2020-2021. This is to help demonstrate our ability to show the accurate and helpful insights pertaining to the job roles and provide recommendations on areas of improvement. The analysis results will help the Yoco People Team advice the company on which improvements will give the most value to them in growing the company quickly. This will be cement the business priority of recruiting high quality candidates as quickly as possible.
+An effective recruitment and selection policy not only fulfils the requirements of a job, but also ensures that an organization will continue to maintain its commitment to providing equal opportunity to employees. 
+Adherence to such a policy will let you hire the best possible candidates for your organization. As the Data Analyst, we have been tasked by our clients (Yoco), to figure out how we can focus insights on the following roles to help the Yoco People Team. 
+This will help identify problems and analyse the data quantitatively, with the process and find potential areas of improvement in the year 2020-2021. 
+
+This is to help demonstrate our ability to show the accurate and helpful insights pertaining to the job roles and provide recommendations on areas of improvement. 
+
+The analysis results will help the Yoco People Team advice the company on which improvements will give the most value to them in growing the company quickly. This will be cement the business priority of recruiting high quality candidates as quickly as possible.
 The analysis is tackled in the Colab Notebook in Python.
 
 ## Setup/Installation Requirements
